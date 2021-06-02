@@ -19,14 +19,14 @@ public class Werkkracht {
 
 
     }
-    public String checknaamArray(){
-        return null;
+    public boolean checknaamArray(String naam){
+        return false;
     }
-    public String checkbsn(){
+    public boolean checkbsn(int bsn){
 
-        return null;
+        return false;
     }
-    public String checkCodeRegel(){
-        return null;
+    public boolean checkCodeRegel(int code){
+        return false;
     }
 }
